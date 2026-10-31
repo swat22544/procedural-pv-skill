@@ -19,15 +19,18 @@
 
 <p>
 <a href="#安装与第一次使用"><strong>快速开始</strong></a> &nbsp;·&nbsp;
-<a href="skills/procedural-pv/references/technique-selection.md">技巧选用</a> &nbsp;·&nbsp;
+<a href="skills/procedural-pv/references/technique-selection.md"><strong>技巧选用</strong></a><br />
+<sub>
 <a href="SOURCES.md">参考作品</a> &nbsp;·&nbsp;
 <a href="docs/TOOLS.md">渲染工具</a> &nbsp;·&nbsp;
 <a href="examples/shot-selection.md">分镜示例</a>
+</sub>
 </p>
 
 <img src="https://img.mengyilong.vip/ew16q3.png" alt="程序化 PV 创作工作台插图：代码、三维场景、剪辑时间线与音频波形围绕创作者展开" width="900" />
-<br />
+<p>
 <sub>给起步的创作者一根拐杖，把故事与取舍留给你。 · <a href="https://github.com/swat22544">swat22544</a></sub>
+</p>
 
 </div>
 
@@ -35,16 +38,16 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
-<strong>01 · 先选技巧</strong><br />
-<sub>按观看任务决定取舍，<br />让画面有清楚的重点。</sub>
+<strong>01 · 取舍</strong><br />
+<sub>按任务选技巧<br />给画面留重点</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<strong>02 · 编排叙事</strong><br />
-<sub>镜头、元素与歌词彼此承接，<br />让动作留下可读的结果。</sub>
+<strong>02 · 叙事</strong><br />
+<sub>让镜头有承接<br />让动作有结果</sub>
 </td>
 <td align="center" valign="top" width="33%">
-<strong>03 · 渲染验收</strong><br />
-<sub>按镜头需要选择工具，<br />复核时间、阅读与实际成片。</sub>
+<strong>03 · 验收</strong><br />
+<sub>按需要选工具<br />用成片验效果</sub>
 </td>
 </tr>
 </table>
