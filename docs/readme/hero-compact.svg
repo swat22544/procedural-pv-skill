@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="310" viewBox="0 0 640 310" role="img" aria-labelledby="title desc">
+  <title id="title">Procedural PV</title>
+  <desc id="desc">Code, motion and story. Give every frame a reason. A music video production skill.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#20202D"/>
+      <stop offset="1" stop-color="#11131E"/>
+    </linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4D4867"/>
+      <stop offset="1" stop-color="#282A42"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="310" rx="18" fill="url(#canvas)"/>
+  <rect x="0.5" y="0.5" width="639" height="309" rx="17.5" fill="none" stroke="#3A374B"/>
+  <g transform="translate(36 34)">
+    <rect width="58" height="58" rx="14" fill="url(#icon)" stroke="#6D6488"/>
+    <g fill="none" stroke="#DDD2F4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13 22v-8h9M36 14h9v8M45 36v8h-9M22 44h-9v-8"/>
+      <path d="m25 22 12 7-12 7Z"/>
+    </g>
+  </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="113" y="68" fill="#B8AEC9" font-size="14" font-weight="600" letter-spacing="2.2">CODE / MOTION / STORY</text>
+    <text x="32" y="165" fill="#F3EFF9" font-size="62" font-weight="650" letter-spacing="-1.8">Procedural <tspan fill="#C8B5ED">PV</tspan></text>
+    <text x="36" y="209" fill="#B6AFC8" font-size="22">Give every frame a reason.</text>
+    <path d="M36 242h568" stroke="#625974" stroke-width="1"/>
+    <text x="36" y="275" fill="#BDB5CF" font-size="13" font-weight="600" letter-spacing="1.2">DIRECTION</text>
+    <text x="202" y="275" fill="#BDB5CF" font-size="13" font-weight="600" letter-spacing="1.2">CONTINUITY</text>
+    <text x="389" y="275" fill="#BDB5CF" font-size="13" font-weight="600" letter-spacing="1.2">LYRIC DESIGN</text>
+  </g>
+</svg>

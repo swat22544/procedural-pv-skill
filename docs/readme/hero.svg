@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Procedural PV</title>
+  <desc id="desc">Code, motion and story. A production skill for music videos, cinematography, continuous transitions and lyric storytelling.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#20202D"/>
+      <stop offset="1" stop-color="#11131E"/>
+    </linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4D4867"/>
+      <stop offset="1" stop-color="#282A42"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#C4B4EE"/>
+      <stop offset="1" stop-color="#8796C2" stop-opacity="0.18"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#B7A0E6" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#B7A0E6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#canvas)"/>
+  <rect x="0.5" y="0.5" width="1279" height="299" rx="17.5" fill="none" stroke="#3A374B"/>
+  <ellipse cx="1090" cy="70" rx="310" ry="220" fill="url(#glow)"/>
+  <g transform="translate(72 69)">
+    <rect width="148" height="148" rx="28" fill="url(#icon)" stroke="#6D6488" stroke-opacity="0.6"/>
+    <g fill="none" stroke="#DDD2F4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M30 55V34h24M94 34h24v21M118 93v21H94M54 114H30V93"/>
+      <path d="m65 55 29 19-29 19Z" fill="#D8CAEF" fill-opacity="0.09"/>
+      <path d="M26 76h13l7-12 9 23 9-14" stroke="#AFAEDB" stroke-width="2"/>
+    </g>
+    <circle cx="118" cy="34" r="4" fill="#DDD2F4"/>
+  </g>
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="267" y="76" fill="#B1A9C2" font-size="13" font-weight="600" letter-spacing="3.2">CODE / MOTION / STORY</text>
+    <text x="262" y="150" fill="#F3EFF9" font-size="66" font-weight="650" letter-spacing="-1.8">Procedural <tspan fill="#C8B5ED">PV</tspan></text>
+    <text x="267" y="193" fill="#AAA6BD" font-size="19">Give every frame a reason.</text>
+    <path d="M268 228h936" stroke="url(#line)" stroke-width="1.5"/>
+    <circle cx="272" cy="257" r="3" fill="#C5B1EB"/>
+    <text x="285" y="261" fill="#C5BED4" font-size="11" font-weight="600" letter-spacing="1.2">DIRECTION</text>
+    <circle cx="409" cy="257" r="3" fill="#A2ACDA"/>
+    <text x="422" y="261" fill="#C5BED4" font-size="11" font-weight="600" letter-spacing="1.2">CONTINUITY</text>
+    <circle cx="559" cy="257" r="3" fill="#B5A4C2"/>
+    <text x="572" y="261" fill="#C5BED4" font-size="11" font-weight="600" letter-spacing="1.2">LYRIC DESIGN</text>
+    <text x="1204" y="261" text-anchor="end" fill="#9B94AF" font-size="11" letter-spacing="1.3">AN AGENT SKILL FOR MUSIC VIDEOS</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M925 116h53c37 0 33-51 71-51h30c38 0 33 82 75 82h49" stroke="#615971" stroke-width="1.5"/>
+    <path d="M925 116h53c37 0 33-51 71-51" stroke="#B7A3D7" stroke-width="2"/>
+    <rect x="907" y="99" width="36" height="34" rx="5" fill="#292738" stroke="#867699"/>
+    <rect x="1032" y="48" width="36" height="34" rx="5" fill="#322D44" stroke="#C2ACE6"/>
+    <rect x="1185" y="130" width="36" height="34" rx="5" fill="#292C3B" stroke="#7D89AD"/>
+    <path d="m1044 60 11 5-11 5Z" fill="#C8B5ED" stroke="none"/>
+    <path d="M915 119h20M915 113h13M1193 147h20M1203 138v18" stroke="#9C96B2" stroke-width="1.5"/>
+  </g>
+</svg>

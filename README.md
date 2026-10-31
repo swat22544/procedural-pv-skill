@@ -1,6 +1,58 @@
-# procedural-pv：程序化音乐 PV 制作 Skill
+<div align="center">
 
-整理镜头、转场、元素叙事、歌词融景与渲染验收的方法，给 AI agent 和刚开始接触代码 PV 的创作者使用。
+<picture>
+  <source media="(max-width: 640px)" srcset="docs/readme/hero-compact.svg" />
+  <img src="docs/readme/hero.svg" alt="Procedural PV — 程序化音乐 PV 制作 Skill" width="960" />
+</picture>
+
+<p>
+<strong>让代码构成画面，让镜头讲述故事。</strong><br />
+<sub>镜头设计 · 连贯转场 · 元素叙事 · 歌词融景 · 渲染验收</sub>
+</p>
+
+<p>
+<a href="skills/procedural-pv/SKILL.md"><img src="https://img.shields.io/badge/Agent_Skill-Procedural_PV-9A8BC4?style=flat-square&amp;labelColor=242331" alt="Agent Skill：Procedural PV" /></a>
+<a href="SOURCES.md"><img src="https://img.shields.io/badge/PV_References-4-7F83B5?style=flat-square&amp;labelColor=242331" alt="四部 PV 参考" /></a>
+<a href="#skill-各部分的作用"><img src="https://img.shields.io/badge/Guides-22-6D809D?style=flat-square&amp;labelColor=242331" alt="22 篇制作参考说明" /></a>
+<a href="NOTICE.md"><img src="https://img.shields.io/badge/Original_Docs-MIT-96869F?style=flat-square&amp;labelColor=242331" alt="原创整理文档采用 MIT 许可；第三方内容见 NOTICE" /></a>
+</p>
+
+<p>
+<a href="#安装与第一次使用"><strong>快速开始</strong></a> &nbsp;·&nbsp;
+<a href="skills/procedural-pv/references/technique-selection.md">技巧选用</a> &nbsp;·&nbsp;
+<a href="SOURCES.md">参考作品</a> &nbsp;·&nbsp;
+<a href="docs/TOOLS.md">渲染工具</a> &nbsp;·&nbsp;
+<a href="examples/shot-selection.md">分镜示例</a>
+</p>
+
+<img src="https://img.mengyilong.vip/ew16q3.png" alt="程序化 PV 创作工作台插图：代码、三维场景、剪辑时间线与音频波形围绕创作者展开" width="900" />
+<br />
+<sub>给起步的创作者一根拐杖，把故事与取舍留给你。 · <a href="https://github.com/swat22544">swat22544</a></sub>
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<strong>01 · 先选技巧</strong><br />
+<sub>按观看任务决定取舍，<br />让画面有清楚的重点。</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<strong>02 · 编排叙事</strong><br />
+<sub>镜头、元素与歌词彼此承接，<br />让动作留下可读的结果。</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<strong>03 · 渲染验收</strong><br />
+<sub>按镜头需要选择工具，<br />复核时间、阅读与实际成片。</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center"><sub>4 部参考 PV · 2 份本地实践工程 · 22 篇参考说明 · 按需选用</sub></p>
+
+---
 
 ## 先说清楚：这是一根拐杖，甚至是一根半成品拐杖
 
