@@ -1,0 +1,7 @@
+interface:
+  display_name: "程序化音乐 PV 与镜头设计"
+  short_description: "Direct, render, and verify cinematic code-driven PVs"
+  default_prompt: "使用 $procedural-pv 制作或优化代码音乐 PV，先按歌曲意图、观看任务和阅读负担选择技巧，再按需借鉴四份参考的方法并选择渲染工具。"
+
+policy:
+  allow_implicit_invocation: true
